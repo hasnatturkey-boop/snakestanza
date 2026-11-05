@@ -1,0 +1,6 @@
+{
+  "name": "Snake Pro - Retro Arcade",
+  "description": "Professional retro snake arcade game with responsive mobile controls, customizable speeds, audio synthesizer, and persistent scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
